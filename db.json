@@ -1,0 +1,39 @@
+{
+  "acessorios": [
+    {
+      "id": 1,
+      "nome": "Franela de microfibra",
+      "valor": "25.90",
+      "parcelamento": "2x sem juros",
+      "urlImage": "https://images.tcdn.com.br/img/img_prod/424358/flanela_de_microfibra_40x60cm_350gsm_vintex_50420511_1_bdd0a2d179d1cc0ad60e706ea0ad99f9_20240410095138.jpg"
+    },
+        {
+      "id": 2,
+      "nome": "Spray limpa-lentes",
+      "valor": "40.00",
+      "parcelamento": "2x sem juros",
+      "urlImage": "https://acdn-us.mitiendanube.com/stores/001/855/372/products/foss-801-986ebab3433aabbb3f16427268022044-1024-1024.jpg"
+    },
+        {
+      "id": 3,
+      "nome": "Correntes ou cordinhas fashion",
+      "valor": "250.00",
+      "parcelamento": "6x sem juros",
+      "urlImage": "https://images.tcdn.com.br/img/img_prod/961443/noticia_13568440046272f072ac53a.JPG"
+    },
+        {
+      "id": 4,
+      "nome": "Correntes ou cordinhas fashion",
+      "valor": "299.60",
+      "parcelamento": "4x sem juros",
+      "urlImage": "https://img.joomcdn.net/c07dc1ba1409c7d004288482755e6d55b18d6076_original.jpeg"
+    },
+        {
+      "id": 5,
+      "nome": "Correntes ou cordinhas fashion",
+      "valor": "149.90",
+      "parcelamento": "3x sem juros",
+      "urlImage": "https://media.eotica.com.br/magpleasure/mpblog/upload/5/e/5e5dcdc23ff79766bf406a800c32e66e.jpg"
+    }
+  ]
+}
